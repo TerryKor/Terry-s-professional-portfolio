@@ -1,4 +1,4 @@
-##Description
+## Description
 
 This is a Portfolio Web Page project that shows my recenlty learned skills at University of Toronto bootcamp.
 
@@ -9,19 +9,19 @@ My web page contains information about me, profile picture, how to contact me an
 Creating Portfolio I have used HTML5 and CSS in Visual Code. CSS code contains flexbox which helped me to position elements and make them flexible, media queries to make responsive desing which makes my web page looks good on all devices (desktops,laptops, ipads and mobile devices). The web page was uploaded and pushed to GitHub Repository named "challenge2".
 
 
-##Instalation
+## Instalation
 
 Please click link below:
 
 https://terrykor.github.io/challenge2/
 
 
-##Screenshot
+## Screenshot
 
 ![Web Page Overview](./assets/images/terrykor.github.io_Terry-s-professional-portfolio_.png "Web Page Overview")
 
 
-##License
+## License
 
 Please refer to the LICENSE in the repo
 
