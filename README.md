@@ -18,7 +18,7 @@ https://terrykor.github.io/challenge2/
 
 ##Screenshot
 
-https://github.com/TerryKor/challenge2/blob/main/assets/images/portfolioScreenShot.png
+![Web Page Overview](./assets/images/terrykor.github.io_Terry-s-professional-portfolio_.png "Web Page Overview")
 
 
 ##License
