@@ -13,7 +13,7 @@ Creating Portfolio I have used HTML5 and CSS in Visual Code. CSS code contains f
 
 Please click link below:
 
-https://terrykor.github.io/challenge2/
+https://terrykor.github.io/Terry-s-professional-portfolio/
 
 
 ## Screenshot
