@@ -18,7 +18,7 @@ https://terrykor.github.io/Terry-s-professional-portfolio/
 
 ## Screenshot
 
-![Web Page Overview](./assets/images/terrykor.github.io_Terry-s-professional-portfolio_.png "Web Page Overview")
+![Web Page Overview](./assets/images/personal_portfolio_screenshot_updated.png "Web Page Overview")
 
 
 ## License
